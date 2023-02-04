@@ -1,3 +1,4 @@
-proxies:
+#proxies:
 #  - {name: heroku, server: heroku.yswl.cf, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: heroku.yswl.cf}}, udp: true}
-  - {name: fly, server: fly.yswl.cf, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fly.yswl.cf}}, udp: true}
+#  - {name: fly, server: fly.yswl.cf, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fly.yswl.cf}}, udp: true}
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummluWwlCIsDQogICJhZGQiOiAiYmZlbGl4LjI3NjgxMS54eXoiLA0KICAicG9ydCI6ICIzMTc3OCIsDQogICJpZCI6ICJjZGNjNDczNy0wZTUwLTQ0YzAtZmQ5Ny02YWFjZjQxMGNlZDYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJmZWxpeC4yNzY4MTEueHl6IiwNCiAgInBhdGgiOiAiL2JmZWxpeCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
